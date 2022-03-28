@@ -1,8 +1,0 @@
-{
-  "description": "Nim wrapper for libssh2 library",
-  "license": "Apache-2.0",
-  "name": "github-haxscramper-hlibssh2",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/haxscramper/hlibssh2",
-  "version": "master"
-}

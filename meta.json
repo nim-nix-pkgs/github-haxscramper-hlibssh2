@@ -8,44 +8,144 @@
   ],
   "tags": [
     {
-      "description": "Nim wrapper for libssh2 library",
+      "name": "hlibssh2",
+      "version": "0.1.1",
+      "author": "haxscramper",
+      "desc": "Nim wrapper for libssh2 library",
       "license": "Apache-2.0",
-      "name": "github-haxscramper-hlibssh2",
-      "ref": "refs/tags/0.1.1",
-      "url": "https://github.com/haxscramper/hlibssh2",
-      "version": "0_1_1"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/0.1.1"
     },
     {
-      "description": "Nim wrapper for libssh2 library",
+      "name": "hlibssh2",
+      "version": "0.1.2",
+      "author": "haxscramper",
+      "desc": "Nim wrapper for libssh2 library",
       "license": "Apache-2.0",
-      "name": "github-haxscramper-hlibssh2",
-      "ref": "refs/tags/0.1.2",
-      "url": "https://github.com/haxscramper/hlibssh2",
-      "version": "0_1_2"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/0.1.2"
     },
     {
-      "description": "Nim wrapper for libssh2 library",
+      "name": "hlibssh2",
+      "version": "0.1.3",
+      "author": "haxscramper",
+      "desc": "Nim wrapper for libssh2 library",
       "license": "Apache-2.0",
-      "name": "github-haxscramper-hlibssh2",
-      "ref": "refs/tags/0.1.3",
-      "url": "https://github.com/haxscramper/hlibssh2",
-      "version": "0_1_3"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/0.1.3"
     },
     {
-      "description": "Nim wrapper for libssh2 library",
+      "name": "hlibssh2",
+      "version": "0.1.4",
+      "author": "haxscramper",
+      "desc": "Nim wrapper for libssh2 library",
       "license": "Apache-2.0",
-      "name": "github-haxscramper-hlibssh2",
-      "ref": "refs/tags/0.1.4",
-      "url": "https://github.com/haxscramper/hlibssh2",
-      "version": "0_1_4"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/0.1.4"
     },
     {
-      "description": "Nim wrapper for libssh2 library",
+      "name": "hlibssh2",
+      "version": "0.1.5",
+      "author": "haxscramper",
+      "desc": "Nim wrapper for libssh2 library",
       "license": "Apache-2.0",
-      "name": "github-haxscramper-hlibssh2",
-      "ref": "refs/tags/0.1.5",
-      "url": "https://github.com/haxscramper/hlibssh2",
-      "version": "0_1_5"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/0.1.5"
     }
   ],
   "url": "https://github.com/haxscramper/hlibssh2",
@@ -60,12 +160,32 @@
   ],
   "heads": [
     {
-      "description": "Nim wrapper for libssh2 library",
+      "name": "hlibssh2",
+      "version": "0.1.5",
+      "author": "haxscramper",
+      "desc": "Nim wrapper for libssh2 library",
       "license": "Apache-2.0",
-      "name": "github-haxscramper-hlibssh2",
-      "ref": "refs/heads/master",
-      "url": "https://github.com/haxscramper/hlibssh2",
-      "version": "master"
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
     }
   ]
 }
