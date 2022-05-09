@@ -9,7 +9,7 @@
   "tags": [],
   "url": "https://github.com/haxscramper/hlibssh2",
   "refs": [
-    "fatal: unable to access 'https://github.com/haxscramper/hlibssh2/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/haxscramper/hlibssh2/': SSL connection timeout",
     ""
   ],
   "heads": []
